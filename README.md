@@ -1,7 +1,7 @@
-TypeScript Jasmine Demo
+TypeScript "jasmine-expect" Demo
 ===========================
 
-让Jasmine支持typescript代码： https://stackoverflow.com/a/49058732/342235
+使用jasmine-expect让jasmine有更多的matcher
 
 ```
 npm install

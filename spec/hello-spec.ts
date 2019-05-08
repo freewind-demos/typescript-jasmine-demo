@@ -1,7 +1,7 @@
-import hello from '../hello';
+import 'jasmine-expect';
 
 describe("A suite", function () {
   it("contains spec with an expectation", function () {
-    expect(hello()).toBe("Hello,world!");
+    expect('hello').toBeSameLengthAs("abcde");
   });
 });

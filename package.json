@@ -4,7 +4,9 @@
   },
   "devDependencies": {
     "@types/jasmine": "3.3.12",
+    "@types/jasmine-expect": "3.8.1",
     "jasmine": "3.4.0",
+    "jasmine-expect": "4.0.1",
     "ts-node": "7.0.1",
     "typescript": "3.2.2"
   }
