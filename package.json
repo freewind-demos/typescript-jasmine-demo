@@ -8,6 +8,6 @@
     "jasmine": "3.4.0",
     "jasmine-expect": "4.0.1",
     "ts-node": "7.0.1",
-    "typescript": "3.2.2"
+    "typescript": "5.3.3"
   }
 }
